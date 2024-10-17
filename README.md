@@ -4,7 +4,7 @@
 
 ## ✅ 기능 목록
 
-- [ ] 문자열 입력
+- [x] 문자열 입력 - [`ed6cb90`](https://github.com/JaeHyunGround/javascript-calculator-7/commit/ed6cb90e2c6ac3a84003ce9d754c23575e91d7c0)
 - [ ] 구분자 정의
 - [ ] 정의한 구분자로 문자열 구분
 - [ ] 문자 -> 숫자 변환
